@@ -25,7 +25,7 @@ TASK_3/
 │
 ├── face_detection.py     # Main Python script
 ├── person.jpg            # Input image
-└── README.md             # Project documentation
+└── FACE.md             # Project documentation
 ```
 
 ## How to Run the Project
